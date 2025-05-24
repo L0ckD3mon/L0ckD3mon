@@ -26,8 +26,7 @@
 ## 📫 ¡Hablemos!  
 ¿Quieres colaborar o ayudarme con algo? ¡No dudes en contactarme!  
 - 📧 Correo: [michelltorres1612@gmail.com](mailto:michelltorres1612@gmail.com)   
-- 🔗 LinkedIn: [Desactivado ya que aun no tengo](https://linkedin.com/in/tu-perfil)   
-
+- 🔗 LinkedIn: [Desactivado ya que aun no tengo]
 ---
 
 ✨ **¡Gracias por visitar mi perfil!** ✨  

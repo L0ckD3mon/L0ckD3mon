@@ -6,7 +6,7 @@
 
 ## 🔥 Sobre Mí  
 - 🌱 **Actualmente aprendiendo:** Python.  
-- 💡 **Me interesa:** Desarrollo, Machine learning automatización y bases de datos.  
+- 💡 **Me interesa:** Machine learning, automatización y bases de datos.  
 - 📫 **Cómo contactarme:** ¡Aquí en GitHub o [michelltorres1612@gmail.com]!  
 - 😄 **Pronombres:** He.  
 
@@ -27,7 +27,7 @@
 
 ## 📫 ¡Hablemos!  
 ¿Quieres colaborar o ayudarme con algo? ¡No dudes en contactarme!  
-- 📧 Correo: [michelltorres1612@gmail.com](mailto:tu-email@ejemplo.com)   
+- 📧 Correo: [michelltorres1612@gmail.com](mailto:michelltorres1612@gmail.com)   
 - 🔗 LinkedIn: [Desactivado ya que aun no tengo](https://linkedin.com/in/tu-perfil)   
 
 ---
